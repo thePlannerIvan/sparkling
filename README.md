@@ -48,7 +48,7 @@
 
 ### 1. 安装
 
-**DSH 用户**：通过 [Planners Form](https://github.com/thePlannerIvan/planners-form) 安装 `planners-proposal-system` 时会一并装好，之后可直接在对话里调用 `sparkling`。
+**DSH 用户**：通过 [Planners Form](https://github.com/thePlannerIvan/planners-form) 安装 `planners-proposal` 时会一并装好，之后可直接在对话里调用 `sparkling`。
 
 **Codex / Claude Code 用户：**
 
